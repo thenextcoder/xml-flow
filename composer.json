@@ -1,7 +1,9 @@
 {
   "name": "thenextcoder/xml-flow",
-  "description": "Generate structured data to and from LLMs, build, parse, and validate XML using PHP.",
+  "description": "A simple, fast, lightweight, and easy-to-use PHP library for building, parsing, and validating XML documents.",
+  "keywords": ["xml", "xml parser", "xml builder", "xml validator", "llm xml prompt"],
   "type": "library",
+  "homepage": "https://github.com/thenextcoder/xml-flow",
   "license": "MIT",
   "authors": [
     {
