@@ -1,0 +1,23 @@
+{
+  "name": "thenextcoder/xml-flow",
+  "description": "Generate structured data to and from LLMs, build, parse, and validate XML using PHP.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Razib Miah",
+      "email": "razib@thenextcoder.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TheNextCoder\\XmlFlow\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2"
+  },
+    "require-dev": {
+      "phpunit/phpunit": "^10.5|^11.0"
+    }
+}
