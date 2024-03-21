@@ -1,6 +1,6 @@
 # Contributing to XMLFlow
 
-First off, thank you for considering contributing to XMLFlow. It's people like you that make XMLFlow such a great tool.
+Thank you for considering contributing to XMLFlow. 
 
 **Working on your first Pull Request?** You can learn how from this _free_ series, [How to Contribute to an Open Source Project on GitHub][contribute]
 

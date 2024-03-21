@@ -183,7 +183,24 @@ try {
     echo "Error: " . $e->getMessage() . "\n";
 }
 ```
+## Usage XmlValidator
 
+### Example 1: Validating XML Data
+
+This example demonstrates how to validate the syntax and structure of an XML string.
+
+```php
+use TheNextCoder\XmlFlow\Validator\XmlValidator;
+
+$xmlContent = '<root><child>Example</child></root>'; // Your XML content here
+
+try {
+    XmlValidator::validate($xmlContent);
+    echo "The XML is well-formed.";
+} catch (Exception $e) {
+    echo "The XML is not well-formed. Errors: " . $e->getMessage();
+}
+```
 
 ## Contributing
 
