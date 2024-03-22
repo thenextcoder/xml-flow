@@ -15,7 +15,7 @@ XMLFlow is a simple, fast, lightweight, and easy-to-use PHP library for building
 You can install XMLFlow via [Composer](https://getcomposer.org/):
 
 ```bash
-composer require thenextcoder/xmlflow
+composer require thenextcoder/xml-flow
 ```
 
 You will then be able to import XMLFlow in your PHP scripts like this:
